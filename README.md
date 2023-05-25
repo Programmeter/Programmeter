@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Martin!</h1>
-<h3 align="center">A hobbyist programmer</h3>
+<h1 style="margin-bottom: 5px">Hi 👋, I'm Martin!</h1>
+
+- 😁 I'm a hobbyist programmer
 
 - 🔭 I’m currently working on [Spiked Latte](https://github.com/Programmeter/Spiked-Latte)
 
